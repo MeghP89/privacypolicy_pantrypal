@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Privacy Policy for PantryPal
 
-## Getting Started
+**Effective date:** September 5, 2025
 
-First, run the development server:
+PantryPal ("we", "our", "us") respects your privacy and is committed to protecting it.  
+This Privacy Policy explains how we collect, use, and handle your personal information when you use our mobile application ("App").
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 1. Information We Collect
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Camera Access:** PantryPal requires access to your device's camera to scan images of your pantry items.  
+- **No Storage:** All images captured are **deleted immediately** after processing by the AI. We do **not store or share your images**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 2. How We Use Your Information
 
-To learn more about Next.js, take a look at the following resources:
+- Images are temporarily used only to process and identify pantry items via AI.  
+- We do **not share, sell, or rent your data** to third parties.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 3. Data Protection
 
-## Deploy on Vercel
+- Any data processed is kept **temporary** on our database or in-memory for AI processing.  
+- No personal images are retained after the scanning process is complete.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 4. Third-Party Services
+
+- Our App may use third-party AI services to process images. These services are only used for **image analysis** and do **not store your images** permanently.
+
+---
+
+## 5. Children’s Privacy
+
+- PantryPal is **not intended for children under 13**. We do not knowingly collect data from children under 13.
+
+---
+
+## 6. Your Rights
+
+- You may **revoke camera access** at any time via your device settings.  
+- You may contact us at [meghp283@gmail.com](mailto:meghp283@gmail.com) for questions, concerns, or requests regarding your data.
+
+---
+
+## 7. Changes to This Privacy Policy
+
+- We may update this policy from time to time. Significant changes will be communicated via app notifications or email.
+
+---
+
+## Contact Us
+
+If you have questions about this Privacy Policy, please contact us at [meghp283@gmail.com](mailto:meghp283@gmail.com).
